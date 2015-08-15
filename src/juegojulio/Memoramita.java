@@ -10,10 +10,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Dark
- */
+
 public class Memoramita extends javax.swing.JFrame {
 
     private Caratula pro;
