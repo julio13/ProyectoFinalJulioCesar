@@ -6,10 +6,7 @@ package inico;
 
 import java.util.Random;
 
-/**
- *
- * @author Dark
- */
+
 public class ComoJugar {
     
     public int[] getCardNumbers() {
